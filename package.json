@@ -1,9 +1,7 @@
 {
- "name": "react-doc-viewer",
+ "name": "@summit-electric-supply/react-doc-viewer",
  "version": "0.1.13",
  "description": "Document viewer for react. Renders online/local documents.",
- "author": "Matthew Mogford",
- "license": "ISC",
  "repository": {
   "url": "https://github.com/summit-electric-supply/react-doc-viewer"
  },
